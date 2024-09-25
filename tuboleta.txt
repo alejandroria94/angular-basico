@@ -15,4 +15,13 @@ peak51.net
 *peak51.net*
 *peak51.com
 peak51.com
+||queue.eticket.com.co^
+queue
+*queue.eticket*
+*peak51.net
+peak51.net
+*peak51.net*
+*peak51.com
+eticket.com
+
 
