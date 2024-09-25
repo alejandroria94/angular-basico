@@ -1,6 +1,12 @@
 ||queue.eticket.com.co^
 ||queue.eticket.com.co^$popup
 ||queue.eticket.com.co^$third-party
+||queue.eticket.com.co^
+queue
+*queue.eticket.com.co*
+*queue.eticket.com.co
+queue.eticket.com.co
+
 
 
 
